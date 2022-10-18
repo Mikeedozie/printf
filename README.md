@@ -21,4 +21,5 @@ Update - 14:01 WAT
 
 ## Compilation
 - Our code will be compiled this way:
+
   ```$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c```
